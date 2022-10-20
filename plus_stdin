@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 #SPDX-FileCopyrightText: 2022 Nakayama Nanami
+#SPDX-License-Identifier: BSD-3-Clause
 import sys
 
 ans = 0.0
@@ -8,3 +9,5 @@ for line in sys.stdin:
 
 print(ans)
 
+このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
+  * © 2022 Nakayama Nanami]
