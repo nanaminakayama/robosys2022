@@ -3,10 +3,17 @@
 import sys
 
 ans = 0
+
 for line in sys.stdin:
-    try:
-        ans += int(line)
-    except:
-        ans += float(line)
+    if int(line) >= 0 :
+        try:
+            ans += int(line)
+        except:
+            ans += float(line)
+    else:
+        try:
+            ans -= int(line)
+        except:
+            ans -= float(line)
 
 print(ans)
