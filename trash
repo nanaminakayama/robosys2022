@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "./plus", line 8, in <module>
+    if int(line) >= 0 :
+ValueError: invalid literal for int() with base 10: 'あ\n'
+Traceback (most recent call last):
+  File "./plus", line 8, in <module>
+    if int(line) >= 0 :
+ValueError: invalid literal for int() with base 10: '\n'
