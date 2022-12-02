@@ -3,6 +3,11 @@
 # ファイル名
 plus
 
+# 導入方法
+```
+git clone https://github.com/nanaminakayama/robosys2022.git
+```
+
 # プログラムの説明
 これは与えられた数字のプラスとマイナスを絶対値で取り、全てを足し合わせるプログラムです。
 
