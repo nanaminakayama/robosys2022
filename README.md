@@ -29,7 +29,7 @@ seq -10 1 10 |./plus
 * このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および私用が許可されます。
 
 
-*© 2022 Ryuuichi Ueda
+千葉工業大学　上田　隆一
 
 
 * [nakayama nanami/my_slides robosys_2022](https://github.com/nanaminakayama/my_slides/tree/master/robosys_2022)
