@@ -29,7 +29,7 @@ seq -10 1 10 |./plus
 * このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および私用が許可されます。
 
 
-授業で　千葉工業大学　上田　隆一 のプログラムのを使用させていただきました。
+授業で　千葉工業大学　上田　隆一　先生のプログラムのを使用させていただきました。
 
 
 * [nakayama nanami/my_slides robosys_2022](https://github.com/nanaminakayama/my_slides/tree/master/robosys_2022)
