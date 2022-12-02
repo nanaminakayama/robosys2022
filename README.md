@@ -22,5 +22,4 @@ seq -10 1 10 |./plus
 *© 2022 Ryuuichi Ueda
 ．
 * [nakayama nanami/my_slides robosys_2022](https://github.com/nanaminakayama/my_slides/tree/master/robosys_2022)
-* © 2022 Nanami Nakayama
-cense~    
+* © 2022 Nanami Nakayama   
