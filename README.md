@@ -14,7 +14,7 @@ git clone https://github.com/nanaminakayama/robosys2022.git
 # 必要なソフトウェア
 * Python:[3.7,3.8,3.9,3.10]
 
-#テスト環境
+# テスト環境
 Ubuntu18.04LTS
 
 # 実行例
