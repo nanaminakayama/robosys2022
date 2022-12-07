@@ -10,6 +10,14 @@ git clone https://github.com/nanaminakayama/robosys2022.git
 
 # plusコマンド
 これは与えられた数字のプラスとマイナスを絶対値で取り、全てを足し合わせるプログラムです。
+* 実行例
+```
+seq 10 | ./plus
+55
+seq -10 1 10 |./plus
+110
+```
+
 
 # 必要なソフトウェア
 * Python
