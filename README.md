@@ -8,14 +8,15 @@ plus
 git clone https://github.com/nanaminakayama/robosys2022.git
 ```
 
-# プログラムの説明
+# plusコマンド
 これは与えられた数字のプラスとマイナスを絶対値で取り、全てを足し合わせるプログラムです。
 
-# 環境:ソフトウェア
+# 必要なソフトウェア
+* Python
+ * テスト済み:[3.7～3.10]
+
+# テスト環境
 Ubuntu18.04LTS
-
-
-Python 3.7,3.8,3.9,3.10 (テスト済み)
 
 # 実行例
 ```
@@ -31,6 +32,4 @@ seq -10 1 10 |./plus
 
 授業で　千葉工業大学　上田　隆一　先生のプログラムのを使用させていただきました。
 
-
-* [nakayama nanami/my_slides robosys_2022](https://github.com/nanaminakayama/my_slides/tree/master/robosys_2022)
 * © 2022 Nanami Nakayama   
