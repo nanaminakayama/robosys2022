@@ -1,5 +1,5 @@
 #!/bin/bash 
-# SPDX-FileCopyrightText: 2022 Ryuichi Ueda
+# SPDX-FileCopyrightText: 2022 Nanami Nakayama
 # SPDX-License-Identifier: BSD-3-Clause
 
 ng (){
