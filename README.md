@@ -31,5 +31,6 @@ seq -10 1 10 |./plus
 
 
 * 授業で　千葉工業大学　上田　隆一　先生のプログラムを使用させていただきました。
+
 [URL](ryuichiueda/my_slides robosys_22)
 * © 2022 Nanami Nakayama   
