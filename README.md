@@ -28,8 +28,8 @@ seq -10 1 10 |./plus
 
 # ライセンス
 * このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および利用が許可されます。
-[URL] (https://github.com/nanaminakayama/robosys2022/blob/main/LICENSE)
+* [URL] (https://github.com/nanaminakayama/robosys2022/blob/main/LICENSE)
 
 * 授業で　千葉工業大学　上田　隆一　先生のプログラムを使用させていただきました。
-[URL] (https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+* [URL] (https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 * © 2022 Nanami Nakayama  
