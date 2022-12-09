@@ -32,7 +32,5 @@ seq -10 1 10 |./plus
 
 * 授業で　千葉工業大学　上田　隆一　先生のプログラムを使用させていただきました。
 
-[URL] ryuichiueda/my_slides robosys_2022
+[URL] (https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 * © 2022 Nanami Nakayama  
-
- https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022 
