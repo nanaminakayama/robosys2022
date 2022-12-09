@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 #SPDX-FileCopyrightText: 2022 Nakayama Nanami
+#SPDX-License-Identifier: BSD-3-Clause
 import sys
 
 ans = 0
