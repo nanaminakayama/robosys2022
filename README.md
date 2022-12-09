@@ -1,5 +1,9 @@
 # robosys2022
 ロボットシステム学の練習リポジトリ
+
+
+https://github.com/nanaminakayama/robosys2022/actions/workflows/test.yml/badge.svg
+
 # ファイル名
 plus
 
